@@ -1,0 +1,5 @@
+name: JoinQuitMessage
+main: example.plugin.exampleplugin.Main
+version: 2.0.0
+author: shinonome
+api: ["1.0.0"]
